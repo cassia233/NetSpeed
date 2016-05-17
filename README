@@ -1,8 +1,6 @@
 # Install
     make
     make install
-#enable
-
-
+#  enable
     press Alt+f2  enter r <enter>
     enable in tweak-gnome-tools
