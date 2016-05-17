@@ -1,1 +1,8 @@
-Use middle click to toggle showing sum.
+# Install
+    make
+    make install
+#enable
+
+
+    press Alt+f2  enter r <enter>
+    enable in tweak-gnome-tools
